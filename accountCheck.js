@@ -1,6 +1,8 @@
 var crypto = require('crypto')
 var utils = require('./utils.js')
+ //  test
 
+// test 2 
 function newAccount(pwd)
 {
 	var pKey ="bcec428d5205abe0f0cc8a734083908d9eb8563e31f943d760786edf42ad77dd"; 
